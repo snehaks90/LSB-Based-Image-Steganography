@@ -1,4 +1,4 @@
-🖼 LSB-Based Image Steganography for Data Encoding and Decoding
+🖼 LSB-Based Image Steganography for Data Encoding and Decoding Using C
 
 📌 Project Overview
 
